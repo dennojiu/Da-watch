@@ -34,7 +34,7 @@ Chat GPTにて制作した、M5stack上で動作するペット育成シミュ�
 
 1. **リポジトリをクローン**:
    ```bash
-   git clone https://github.com/yourusername/PetSimulation.git
+   [git clone (https://github.com/dennojiu/Da-watch)
 2. Arduino IDEでプロジェクトを開く。
 3. コードをM5Stack Core2にアップロード。
 4. SDカードを準備:
