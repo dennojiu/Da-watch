@@ -24,6 +24,8 @@ Chat GPTにて制作した、M5stack上で動作するペット育成シミュ�
     - `bath.jpg`
     - `appearance1.jpg`, `appearance2.jpg`, `appearance3.jpg`, `appearance4.jpg`, `appearance5.jpg`, `appearance6.jpg`
     - `sleep.jpg`
+   imgフォルダにサンプル画像が入っていますので自由にお使いください。
+
 - **ソフトウェア**: 
   - Arduino IDE
   - 必要なライブラリ: `M5Core2`, `JPEGDecoder`, `NTPClient`
